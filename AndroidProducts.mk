@@ -14,8 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_h870.mk
+    $(LOCAL_DIR)/lmodroid_h870.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_h870-userdebug \
-    lineage_h870-eng
+    lmodroid_h870-userdebug \
+    lmodroid_h870-eng
